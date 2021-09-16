@@ -3,7 +3,7 @@ title: Make Recipe & Track Nutrition
 layout: post
 categories: [Health, App]
 image: /assets/img/c1.jpg
-description: "Lorem Ipsum"
+description: "Make Recipe & Track Nutrition"
 customexcerpt: "Committed to track and record your personal diet, and automatically analyze daily nutrition.
 致力于跟踪记录你的个人饮食，并自动分析每日的营养。"
 ---
